@@ -1,4 +1,4 @@
-const api = `http://gateway.marvel.com/v1/public/characters?ts=1&apikey=f3590148aa33d73160c34cf4a712fac8&hash=0d90061027af6621ca73185cef650d56&limit=50&offset=0`;
+const api = `https://gateway.marvel.com/v1/public/characters?ts=1&apikey=f3590148aa33d73160c34cf4a712fac8&hash=0d90061027af6621ca73185cef650d56&limit=50&offset=0`;
 
 let footer = document.querySelector(".footer");
 let container = document.querySelector(".container");
