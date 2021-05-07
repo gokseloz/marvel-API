@@ -20,7 +20,7 @@
 - Fully Responsive
 
 ## Live demo
-- 
+- [See live demo](https://marvel-api-eight.vercel.app/)
 
 ## Screenshot
-
+![Marvel-app](https://user-images.githubusercontent.com/72968539/117505900-1606fd00-af85-11eb-9ef4-4828db4c5485.png)
